@@ -1,6 +1,7 @@
-# flutter_hashcamp_3
+A Flutter project.
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/c7af90fd-497e-43ea-bc0d-5feec2b892f7)
+
 
 ## Getting Started
 
