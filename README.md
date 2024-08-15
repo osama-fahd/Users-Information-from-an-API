@@ -1,9 +1,7 @@
 A Flutter project that takes information from an Api.
 
-The main front
 ![image](https://github.com/user-attachments/assets/c7af90fd-497e-43ea-bc0d-5feec2b892f7)
 
-The information front
 ![image](https://github.com/user-attachments/assets/6f43a204-098b-49a9-a51c-94a7047b0cff)
 
 
